@@ -105,7 +105,7 @@ export default function LandingPage() {
         { id: "f2", title: "Natural Tanning", subtitle: "Eco-conscious leather", category: "Materials", value: "Pure" },
         { id: "f3", title: "Personal Touch", subtitle: "Customized for you", category: "Service", value: "Unique" },
       ]}
-      title="Why NOEN Handmade?"
+      title="Why NOEN Handmade by Sara Abedo?"
       description="Beyond just accessories, we deliver pieces of art you can wear."
     />
   </div>
@@ -128,7 +128,7 @@ export default function LandingPage() {
         { value: "100%", label: "Handmade" },
       ]}
       title="Treasured by Our Community"
-      description="See why customers love our handmade leather goods."
+      description="See why customers love our handmade leather goods created by Sara Abedo."
     />
   </div>
 
@@ -165,7 +165,7 @@ export default function LandingPage() {
       background={{ variant: "plain" }}
       tag="Get in Touch"
       title="Start Your NOEN Journey"
-      description="Questions? Custom orders? Let's connect. WhatsApp/Phone: +963 939 495 355"
+      description="Questions? Custom orders from Sara Abedo? Let's connect. WhatsApp/Phone: +963 939 495 355"
       buttons={[
         { text: "WhatsApp/Call Now", href: "tel:+963939495355" },
       ]}
@@ -175,7 +175,7 @@ export default function LandingPage() {
   <div id="footer" data-section="footer">
       <FooterMedia
       imageSrc="http://img.b2bpic.net/free-photo/close-up-person-working-engraving_23-2149286537.jpg"
-      logoText="NOEN Handmade"
+      logoText="NOEN Handmade by Sara Abedo"
       columns={[
         {
           title: "Explore",          items: [
